@@ -38,12 +38,12 @@ h1 {
 
 .altura {
     padding-top: 50px;
-    height: 85.5vh;
+    height: 65.5vh;
 }
 
 .altura2 {
     
-    height: 79.7vh;
+    height: 59.8vh;
 }
 
 .altura3 {
@@ -345,7 +345,7 @@ h1 {
     align-items: center;
     height: 55.5vh;
     font-size: 35px;
-    padding-bottom: 150px;
+    padding-bottom: 0px;
     padding-top: 30px;
     
 }
